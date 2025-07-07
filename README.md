@@ -25,8 +25,8 @@ Cada roteiro segue um modelo visual com:
 
 ## ✍️ Autores
 
-Edson Samuel - escritor, desenvolvedor de jogos e criador do universo.
-Lucas Malezan - escritor, formado em letras vernáculas e amante das artes místicas da ficção.
+- Edson Samuel - escritor, desenvolvedor de jogos e criador do universo.
+- Lucas Malezan - escritor, formado em letras vernáculas e amante das artes místicas da ficção.
 
 ## 📌 Nota
 
